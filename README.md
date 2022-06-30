@@ -7,7 +7,7 @@ This is a Gym designe templet, where i used basic html and css, This is only for
 
 ## Live Demo 
 
-[Live Demo]
+[Live Demo]([absolute link](https://amanulla.github.io/gym/))
 
 ## Getting Started
 
